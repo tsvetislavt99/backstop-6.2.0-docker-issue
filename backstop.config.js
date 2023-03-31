@@ -1,7 +1,7 @@
 const scenarios = require('./backstop/scenarios');
 
 module.exports = {
-  id: 'NBA',
+  id: 'test',
   viewports: [
     {
       label: 'mobile',
